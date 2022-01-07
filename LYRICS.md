@@ -67,9 +67,7 @@ Tel est mon labeur, tu sais de qui je défends l'honneur
 L'École du micro d'argent
 L'École du micro d'argent
 Je représente
-<<<<<<< HEAD
+L'École du micro d'argent
+L'École du micro d'argent
 Je représente
-=======
-L'École du micro d'argent
-L'École du micro d'argent
->>>>>>> 5e52a818de8c1893fa9eccfaacce00838228ece4
+Je représente
